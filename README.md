@@ -1,2 +1,62 @@
-# Bright-Coffee-Shop-Project-
-The Bright Learn Coffee Shop Sales Analysis Project involved leveraging historical transactional data to provide actionable insights for the newly appointed CEO. The primary objective was to identify high-performing products, peak sales periods, and overall revenue trends, enabling data-driven decisions to increase profitability and improve operational efficiency. The project encompassed four key tasks: designing a data flow architecture in Miro to map data sources, ETL processes, and storage; processing and transforming data in Snowflake, including transaction time bucketing, unit price standardization, and total revenue calculations; analyzing the processed data in Excel or visualization tools to create dashboards highlighting product performance, sales peaks, and quantity sold by category; and preparing a presentation with key insights, recommendations, and next steps for optimizing sales. Deliverables included the Miro plan, processed datasets with pivot tables and charts, SQL code, and a PowerPoint presentation summarizing findings and strategic recommendations for the CEO. The project ultimately provides Bright Learn with a structured approach to monitor performance, promote top-selling products, and implement targeted marketing strategies.
+Bright Coffee Shop Sales Analysis — Project Summary
+
+###Objective
+>Provide data-driven insights to the new CEO using historical coffee shop sales data to improve profitability and operational efficiency.
+
+###Key Focus Areas
+
+>Identify high-performing products
+
+>Pinpoint peak sales periods
+
+>Analyze revenue and transaction trends
+
+>Enable strategic, data-backed decision-making
+
+###Project Scope / Tasks
+
+#Data Architecture (Miro)
+
+>Designed end-to-end data flow (source → ETL → Snowflake → analytics layer)
+
+#Data Processing & Transformation (Snowflake SQL)
+
+>Structured and cleaned transactions
+
+Standardized unit pricing
+
+>Created revenue calculations
+
+>Bucketed transaction times for deeper analysis
+
+#Analysis & Visualization (Excel / BI Tools)
+
+>Built pivot tables & dashboards
+
+>Analyzed category performance, quantity sold, peak hours
+
+#Executive Presentation
+
+>Summarized insights, recommendations, and growth opportunities
+
+>Strategic focus on product promotion & marketing optimization
+
+###Deliverables
+
+>Miro data flow architecture
+
+>SQL transformation scripts
+
+>Cleaned + aggregated datasets
+
+>Excel / dashboard visuals
+
+>Executive PowerPoint presentation with recommendations
+
+###Outcome
+
+>Clear performance monitoring strategy
+
+Framework to scale marketing & promote top sellers
+
+Strong foundation for continuous revenue optimization
