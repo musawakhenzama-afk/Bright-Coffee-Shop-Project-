@@ -1,4 +1,6 @@
 A BrightLearn Data Analytics Project
+
+
 📘 Overview
 
 This project presents a comprehensive data analysis case study for Bright Coffee Shop, developed as part of the BrightLearn Data Analytics Bootcamp.
